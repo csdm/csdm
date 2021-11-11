@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Claudio.
+#### I'm a Computer Engineer, graduated at University of Salerno, and I was graduated at Apple Developer Academy too 🍎.
+#### I'm currently work as Software developer engineer at NTT Data Italia.
 
 <!--
 **csdm/csdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
