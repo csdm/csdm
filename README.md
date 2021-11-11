@@ -9,9 +9,9 @@
 If you want more information about my skills and my career, [download my cv](https://www.claudiodimauro.it/downloads/curriculum_vitae/_ITA_CV_DiMauro_Claudio_Salvatore.pdf).
 
 ## Keep in contact with me
-[<img alt="Claudio S. Di Mauro | Website" src="./img/internet.png"  width="32" height="32" style="margin:15px;"/>][website]
-[<img alt="Claudio S. Di Mauro | Facebook" src="./img/facebook.png"  width="32" height="32" style="margin-right:5px;"/>][facebook]
-[<img alt="Claudio S. Di Mauro | Instagram" src="./img/instagram.png"  width="32" height="32" style="margin-right:5px;"/>][instagram]
+[<img alt="Claudio S. Di Mauro | Website" src="./img/internet.png"  width="32" height="32"/>][website]
+[<img alt="Claudio S. Di Mauro | Facebook" src="./img/facebook.png"  width="32" height="32"/>][facebook]
+[<img alt="Claudio S. Di Mauro | Instagram" src="./img/instagram.png"  width="32" height="32"/>][instagram]
 [<img alt="Claudio S. Di Mauro | LinkedIn" src="./img/linkedin.png"  width="32" height="32"/>][linkedin]
 
 [website]: https://www.claudiodimauro.it
