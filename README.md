@@ -16,7 +16,7 @@ If you want more information about my skills and my career, [download my cv](htt
 [<img alt="Claudio S. Di Mauro | LinkedIn" src="./img/linkedin.png"  width="32" height="32"/>][linkedin]
 [<img alt="Claudio S. Di Mauro | BeHance" src="./img/behance.png"  width="32" height="32"/>][behance]
 [<img alt="Claudio S. Di Mauro | Skype" src="./img/skype.png"  width="32" height="32"/>][skype]
-[<img alt="Claudio S. Di Mauro | YouTube" src="./img/youtube.png"  width="32" height="32"/>][youtube]
+[<img alt="Claudio S. Di Mauro | YouTube" src="./img/youtube.png"  width="32" height="32"/>][youtube]  
 
 [website]: https://www.claudiodimauro.it
 [facebook]: https://www.facebook.com/claudio.dimauro02/
@@ -27,7 +27,13 @@ If you want more information about my skills and my career, [download my cv](htt
 [skype]: skype:claudio.dimauro1?call
 [youtube]: https://www.youtube.com/channel/UCu5IbjF-vlxIg5vA2kl0p4g
 
+## Some stats
+![Followers](https://img.shields.io/github/followers/csdm?style=social)
+![Stars](https://img.shields.io/github/stars/csdm)
+![Profile views](https://gpvc.arturio.dev/csdm)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csdm&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csdm&show_icons=true)
 <!--
 **csdm/csdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
