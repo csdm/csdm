@@ -29,8 +29,8 @@ If you want more information about my skills and my career, [download my cv](htt
 
 ## Some stats
 ![Followers](https://img.shields.io/github/followers/csdm?style=social)
-![Stars](https://img.shields.io/github/stars/csdm)
-![Profile views](https://gpvc.arturio.dev/csdm)
+![Stars](https://img.shields.io/github/stars/csdm?style=social)
+![Profile views](https://gpvc.arturio.dev/csdm?style=social)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csdm&show_icons=true&&line_height=40)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csdm&show_icons=true)
