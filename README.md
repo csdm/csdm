@@ -10,8 +10,14 @@ If you want more information about my skills and my career, [download my cv](htt
 
 ## Keep in contact with me
 [<img alt="Claudio S. Di Mauro | Website" src="./img/internet.png"  width="32" height="32" />][website]
+[<img alt="Claudio S. Di Mauro | Facebook" src="./img/facebook.png"  width="32" height="32" />][facebook]
+[<img alt="Claudio S. Di Mauro | Instagram" src="./img/instagram.png"  width="32" height="32" />][instagram]
+[<img alt="Claudio S. Di Mauro | LinkedIn" src="./img/linkedin.png"  width="32" height="32" />][linkedin]
 
 [website]: https://www.claudiodimauro.it
+[facebook]: https://www.facebook.com/claudio.dimauro02/
+[instagram]: https://www.instagram.com/_havana9/
+[linkedin]: https://www.linkedin.com/in/claudiodimauro/
 
 
 <!--
