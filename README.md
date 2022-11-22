@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Claudio!
 ## I'm a Software Developer Engineer
 - 💻 I'm graduated in Computer Engineering @ University of Salerno 👨‍🎓
-- 🍎 I'm graduated at Apple Developer Academy
-- 🔭 I’m currently working at [NTT Data Italia](https://it.nttdata.com/)
+- 🍎 I'm graduated @ Apple Developer Academy
+- 🔭 I’m currently working @ [NTT Data Italia](https://it.nttdata.com/)
 - 🌱 I’m currently learning SpringBoot, Kafka, MQ Queues, Kubernetes, OpenShift, Hibernate 
 - 📫 Reach me using [my website](https://www.claudiodimauro.it)  
 
