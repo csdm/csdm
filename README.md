@@ -3,7 +3,7 @@
 - 💻 I'm graduated in Computer Engineering @ [University of Salerno](https://www.unisa.it/) 👨‍🎓
 - 🍎 I'm graduated @ [Apple Developer Academy](https://www.developeracademy.unina.it/it/)
 - 🔭 I’m currently working @ [NTT Data Italia](https://it.nttdata.com/)
-- 🌱 I’m currently working on SpringBoot, Kafka, MQ Queues, Kubernetes, OpenShift, Hibernate 
+- 🌱 I’m currently working on Spring Boot, Kafka, Flink, Kubernetes, OpenShift, Hibernate, Oracle, Documentum and MongoDB 
 - 📫 Reach me using [my website](https://www.claudiodimauro.it)  
 
 If you want more information about my skills and my career, [download my cv](https://www.claudiodimauro.it/downloads/curriculum_vitae/_ITA_CV_DiMauro_Claudio_Salvatore.pdf).
