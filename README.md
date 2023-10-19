@@ -32,5 +32,5 @@ If you want more information about my skills and my career, [download my cv](htt
 ![Stars](https://img.shields.io/github/stars/havana-9)
 ![Profile views](https://gpvc.arturio.dev/havana-9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csdm&show_icons=true&&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csdm&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=havana-9&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havana-9&show_icons=true)
