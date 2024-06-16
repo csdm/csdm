@@ -31,5 +31,5 @@ If you want more information about my skills and my career, [download my cv](htt
 ![Followers](https://img.shields.io/github/followers/hvna9)
 ![Stars](https://img.shields.io/github/stars/hvna9)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=havana-9&show_icons=true&&line_height=40)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=havana-9&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hvna9&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hvna9&show_icons=true)
