@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Claudio!
-## I'm a Software Developer Engineer
+## I'm a Software Engineer
 - 💻 I'm graduated in Computer Engineering @ [University of Salerno](https://www.unisa.it/) 👨‍🎓
 - 🍎 I'm graduated @ [Apple Developer Academy](https://www.developeracademy.unina.it/it/)
 - 🔭 I’m currently working @ [NTT Data Italia](https://it.nttdata.com/)
