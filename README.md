@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on Spring Boot, Kafka, Flink, Kubernetes, OpenShift, Hibernate, Oracle, Documentum and MongoDB 
 - 📫 Reach me using [my website](https://www.claudiodimauro.it)  
 
-If you want more information about my skills and my career, [download my cv](https://www.claudiodimauro.it/downloads/curriculum_vitae/_ITA_CV_DiMauro_Claudio_Salvatore.pdf).
+If you want more information about my skills and my career, [download my cv](https://www.claudiodimauro.it/download/572/?tmstv=1731944288).
 
 ## Keep in contact with me
 [<img alt="Claudio S. Di Mauro | Website" src="./img/www.png"  width="32" height="32"/>][website]
